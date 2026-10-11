@@ -61,12 +61,53 @@ Sitio institucional con portfolio de webs demo adaptables a cada cliente y produ
 
 ---
 
-## Proyectos en equipo
+## Webs demo
 
-Proyectos desarrollados en equipo durante la formación en RollingCode, trabajando con ramas y pull requests sobre una rama de desarrollo compartida.
+Sitios completos con marcas ficticias que cada cliente puede elegir como base para adaptarlos a su empresa. Se pueden navegar en vivo desde el [portfolio de Lambda Lab Norte](https://www.lambdalab.com.ar/portfolio-webs).
 
-| Proyecto | Mi aporte | Tecnologías |
-| --- | --- | --- |
+<table>
+  <tr>
+    <td width="50%" valign="top"><a href="https://www.lambdalab.com.ar/demos-web/preview-electric-industrial"><img src="img/demos/project-control.jpg" alt="Project Control Industrial" width="100%"></a><br><b><a href="https://www.lambdalab.com.ar/demos-web/preview-electric-industrial">Project Control Industrial</a></b><br><sub>Industria y servicios técnicos</sub></td>
+    <td width="50%" valign="top"><a href="https://www.lambdalab.com.ar/demos-web/preview-corporativo"><img src="img/demos/nexacore.jpg" alt="NexaCore" width="100%"></a><br><b><a href="https://www.lambdalab.com.ar/demos-web/preview-corporativo">NexaCore</a></b><br><sub>Consultoras y servicios profesionales</sub></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><a href="https://www.lambdalab.com.ar/demos-web/preview-tienda"><img src="img/demos/lumamarket.jpg" alt="LumaMarket" width="100%"></a><br><b><a href="https://www.lambdalab.com.ar/demos-web/preview-tienda">LumaMarket</a></b><br><sub>Tienda online</sub></td>
+    <td width="50%" valign="top"><a href="https://www.lambdalab.com.ar/demos-web/preview-roofpro"><img src="img/demos/roofpro.jpg" alt="RoofPro Norte" width="100%"></a><br><b><a href="https://www.lambdalab.com.ar/demos-web/preview-roofpro">RoofPro Norte</a></b><br><sub>Oficios y servicios a domicilio</sub></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><a href="https://www.lambdalab.com.ar/demos-web/preview-plataforma"><img src="img/demos/atlassuite.jpg" alt="AtlasSuite" width="100%"></a><br><b><a href="https://www.lambdalab.com.ar/demos-web/preview-plataforma">AtlasSuite</a></b><br><sub>Plataforma interna para empresas</sub></td>
+    <td width="50%" valign="top"><a href="https://www.lambdalab.com.ar/demos-web/sitio-institucional-blog"><img src="img/demos/origo.jpg" alt="Origo Editorial" width="100%"></a><br><b><a href="https://www.lambdalab.com.ar/demos-web/sitio-institucional-blog">Origo Editorial</a></b><br><sub>Profesionales que publican contenido</sub></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><a href="https://www.lambdalab.com.ar/demos-web/portfolio-graphic-designer"><img src="img/demos/portfolio-creativo.jpg" alt="Portfolio creativo" width="100%"></a><br><b><a href="https://www.lambdalab.com.ar/demos-web/portfolio-graphic-designer">Portfolio creativo</a></b><br><sub>Diseñadores y estudios creativos</sub></td>
+  </tr>
+</table>
+
+---
+
+## Proyectos de formación
+
+Proyectos realizados durante la formación en RollingCode: dos en equipo, trabajando con ramas y pull requests sobre una rama de desarrollo compartida, y uno individual.
+
+### INTI Cinema · Plataforma web de películas
+Proyecto en equipo de 3. **Mi aporte:** navbar y footer, buscador, home y detalle de películas, unificación del catálogo y sus datos, acceso al login, mejoras responsive y de estilos, README final, e integración de ramas y de pull requests.
+<br><sub>React · React Router · Tailwind CSS · Vite</sub> · **[Ver demo](https://inti-cinema.netlify.app/)** · [Repositorio](https://github.com/naza625/proyecto-m2-inti)
+
+<img src="img/inti-cinema.jpg" alt="INTI Cinema" width="100%">
+
+### TukiPatas · Servicios y productos para mascotas
+Proyecto en equipo de 5. **Mi aporte:** páginas de categorías con banners responsive y enlaces, banner principal, ajustes del footer y estilos del carrito, e integración de ramas y de pull requests.
+<br><sub>HTML · CSS</sub> · [Repositorio](https://github.com/jasto996-pixel/Proyecto-modulo-1)
+
+<img src="img/tukipatas.jpg" alt="TukiPatas" width="100%">
+
+### Misky Stack · Pastelería del NOA
+Proyecto individual: sitio de una pastelería regional con recetas del norte argentino, página de detalle, 404 e identidad visual propia.
+<br><sub>HTML · CSS · Bootstrap · Netlify</sub> · **[Ver sitio](https://miskystack.netlify.app/)**
+
+<img src="img/misky-stack.jpg" alt="Misky Stack" width="100%">
+
+--- | --- | --- |
 | **[INTI Cinema](https://github.com/naza625/proyecto-m2-inti)**<br><sub>Plataforma web de películas · equipo de 3</sub> | Navbar y footer, buscador, home y detalle de películas; unificación del catálogo y sus datos; acceso al login; mejoras responsive y de estilos; README final; integración de ramas y de pull requests. | React · React Router · Tailwind CSS · Vite |
 | **[TukiPatas](https://github.com/jasto996-pixel/Proyecto-modulo-1)**<br><sub>Sitio de servicios y productos para mascotas · equipo de 5</sub> | Páginas de categorías con banners responsive y enlaces; banner principal; ajustes del footer y estilos del carrito; integración de ramas y de pull requests. | HTML · CSS |
 
