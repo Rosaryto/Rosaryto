@@ -76,7 +76,7 @@ Sitios completos con marcas ficticias que cada cliente puede elegir como base pa
   </tr>
   <tr>
     <td width="50%" valign="top"><a href="https://www.lambdalab.com.ar/demos-web/preview-plataforma"><img src="img/demos/atlassuite.jpg" alt="AtlasSuite" width="100%"></a><br><b><a href="https://www.lambdalab.com.ar/demos-web/preview-plataforma">AtlasSuite</a></b><br><sub>Plataforma interna para empresas</sub></td>
-    <td width="50%" valign="top"><a href="https://www.lambdalab.com.ar/demos-web/sitio-institucional-blog"><img src="img/demos/origo.jpg" alt="Origo Editorial" width="100%"></a><br><b><a href="https://www.lambdalab.com.ar/demos-web/sitio-institucional-blog">Origo Editorial</a></b><br><sub>Profesionales que publican contenido</sub></td>
+    <td width="50%" valign="top"><a href="https://www.lambdalab.com.ar/demos-web/sitio-institucional-blog"><img src="img/demos/origo.jpg" alt="Origo Editorial" width="100%"></a><br><b><a href="https://www.lambdalab.com.ar/demos-web/sitio-institucional-blog">Origo</a></b><br><sub>Sitio editorial para profesionales que publican contenido</sub></td>
   </tr>
   <tr>
     <td width="50%" valign="top"><a href="https://www.lambdalab.com.ar/demos-web/portfolio-graphic-designer"><img src="img/demos/portfolio-creativo.jpg" alt="Portfolio creativo" width="100%"></a><br><b><a href="https://www.lambdalab.com.ar/demos-web/portfolio-graphic-designer">Portfolio creativo</a></b><br><sub>Diseñadores y estudios creativos</sub></td>
