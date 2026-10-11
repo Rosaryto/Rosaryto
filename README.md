@@ -61,6 +61,17 @@ Sitio institucional con portfolio de webs demo adaptables a cada cliente y produ
 
 ---
 
+## Proyectos en equipo
+
+Proyectos desarrollados en equipo durante la formación en RollingCode, trabajando con ramas y pull requests sobre una rama de desarrollo compartida.
+
+| Proyecto | Mi aporte | Tecnologías |
+| --- | --- | --- |
+| **[INTI Cinema](https://github.com/naza625/proyecto-m2-inti)**<br><sub>Plataforma web de películas · equipo de 3</sub> | Navbar y footer, buscador, home y detalle de películas; unificación del catálogo y sus datos; acceso al login; mejoras responsive y de estilos; README final; integración de ramas y de pull requests. | React · React Router · Tailwind CSS · Vite |
+| **[TukiPatas](https://github.com/jasto996-pixel/Proyecto-modulo-1)**<br><sub>Sitio de servicios y productos para mascotas · equipo de 5</sub> | Páginas de categorías con banners responsive y enlaces; banner principal; ajustes del footer y estilos del carrito; integración de ramas y de pull requests. | HTML · CSS |
+
+---
+
 <p align="center">
   ¿Tenés un proyecto? <a href="https://wa.me/5493815539646"><strong>Escribime por WhatsApp</strong></a> · <a href="https://www.lambdalab.com.ar">lambdalab.com.ar</a>
 </p>
